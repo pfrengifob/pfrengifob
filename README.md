@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pfrengifob
-- 👀 I’m interested in Security
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Networks, Security And Software
+- 🌱 I’m currently learning C++
 
 <!---
 pfrengifob/pfrengifob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
