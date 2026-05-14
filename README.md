@@ -9,7 +9,7 @@
 - 🛠️ Building projects involving **Mobile Applications, Automation, Monitoring and Connected Devices**
 - 📚 Currently learning about **Cybersecurity, Backend Development and System Administration**
 - 🚀 Sharing academic projects, labs and personal experiments through GitHub
-- 💬 Ask me about: **Bash, PostgreSQL, Networking, Flutter, Grafana and ESP32**
+- 💬 Ask me about: **Bash, PostgreSQL, Networking, Flutter, Grafana and Development Boards**
 - 📫 How to reach me: **Find me on [LinkedIn](https://www.linkedin.com/in/pedro-rengifo200/)**
 
 ---
